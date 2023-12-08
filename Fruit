@@ -1,0 +1,11 @@
+//Declaring the var
+var fruit = ["strawberry", "kiwi", "orange", "banana"]
+
+//Start loop at first array item
+for (i = [0]; i < fruit.length - 1; i++) {
+if (i = "strawberry) {
+return "yum"
+} else {
+return "yuck"
+}
+//strawberries are good, other fruits are bad
